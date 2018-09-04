@@ -1,6 +1,8 @@
-public class Helloworld {
-	public static void main (String [] args){
-		system.out.println("Hello World Forever");
-		system.out.println("Haloo");
-	}
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
 }
